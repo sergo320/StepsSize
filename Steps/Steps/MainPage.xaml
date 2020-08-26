@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Steps.MainPage">
+    
+    <StackLayout>
+        <Entry Placeholder="Steps" x:Name="steps" />
+        <Label Text="Steps" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+
+        <Entry Placeholder="Step size" x:Name="step_size" />
+        <Label Text="Step size" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" TextColor="Black"/>
+
+        <Frame CornerRadius="10" WidthRequest="100" HeightRequest="40" HasShadow="True" BackgroundColor="#87CEEB" Margin="40,50">
+            <Label x:Name="distance" Text="" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="20" />
+        </Frame>
+        <Button Text="Count" Clicked="Count" WidthRequest="100" HeightRequest="50" Margin="20,0" x:Name="button" CornerRadius="10" BackgroundColor="#87CEEB" />
+    </StackLayout>
+
+</ContentPage>

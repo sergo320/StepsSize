@@ -1,0 +1,13 @@
+E:\Projects\xamarin\Steps\Steps\Steps\bin\Release\netstandard2.0\Steps.deps.json
+E:\Projects\xamarin\Steps\Steps\Steps\bin\Release\netstandard2.0\Steps.dll
+E:\Projects\xamarin\Steps\Steps\Steps\bin\Release\netstandard2.0\ref\Steps.dll
+E:\Projects\xamarin\Steps\Steps\Steps\bin\Release\netstandard2.0\Steps.pdb
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\Steps.AssemblyInfoInputs.cache
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\Steps.AssemblyInfo.cs
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\Steps.csproj.CoreCompileInputs.cache
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\XamlC.stamp
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\Steps.dll
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\ref\Steps.dll
+E:\Projects\xamarin\Steps\Steps\Steps\obj\Release\netstandard2.0\Steps.pdb
